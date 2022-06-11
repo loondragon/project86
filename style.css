@@ -1,0 +1,12 @@
+.body_backgorund 
+{
+    background-image:url("hOye.gif");
+    background-position:center;
+    background-size:cover;
+}
+#i1
+{
+  border: solid; 
+  border-width: 3px;
+}
+
